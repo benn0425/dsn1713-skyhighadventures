@@ -1,0 +1,24 @@
+.navbar {
+    background-color: rgb(51, 58, 137);
+    box-shadow: 0 4px 6px rgb(75, 85, 196);
+}
+
+.navbar-text {
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.nav-link.active {
+    color: yellow;
+}
+
+.btn {
+    background-color: rgb(255, 225, 0);
+    border: none;
+    font-weight: 800;
+}
+
+.btn-hover,
+.btn-focus {
+    background-color: #ffffff;
+}
