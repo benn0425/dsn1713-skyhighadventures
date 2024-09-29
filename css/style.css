@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgb(51, 58, 137);
+    background-color: #2a36b9;
     box-shadow: 0 4px 6px rgb(75, 85, 196);
 }
 
@@ -8,12 +8,12 @@
     color: #ffffff;
 }
 
-.nav-link.active {
-    color: yellow;
+.navbar .nav-link.active {
+    color: #ffd000;
 }
 
 .btn {
-    background-color: rgb(255, 225, 0);
+    background-color: rgb(255, 208, 0);
     border: none;
     font-weight: 800;
 }
