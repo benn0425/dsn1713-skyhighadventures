@@ -1,6 +1,14 @@
 .navbar {
-    background-color: #2a36b9;
-    box-shadow: 0 4px 6px rgb(75, 85, 196);
+    background-color: #1b205a;
+    box-shadow: 0 4px 6px #1b205a;
+}
+
+header #announcement {
+    background-color: #ffd000;
+}
+
+#announcement a:link {
+    color: black;
 }
 
 .navbar-text {
