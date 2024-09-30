@@ -4,10 +4,10 @@
 }
 
 header #announcement {
-    background-color: #ffd000;
+    background-color: #70befa;
 }
 
-#announcement a:link {
+#announcement a {
     color: black;
 }
 
@@ -17,11 +17,11 @@ header #announcement {
 }
 
 .navbar .nav-link.active {
-    color: #ffd000;
+    color: #70befa;
 }
 
 .btn {
-    background-color: rgb(255, 208, 0);
+    background-color: #70befa;
     border: none;
     font-weight: 800;
 }
