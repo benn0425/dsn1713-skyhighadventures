@@ -32,3 +32,11 @@ header #announcement {
 .btn-focus {
     background-color: #ffffff;
 }
+
+#hero {
+    background-color: #E7F8FF;
+}
+
+img {
+    align-self: right;
+}
