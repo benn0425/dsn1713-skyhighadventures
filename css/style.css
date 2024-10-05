@@ -46,7 +46,13 @@ body {
     align-self: right;
 } */
 
+/* header {
+    position: sticky;
+    top: 0;
+} */
+
 @media (min-width:768px) {
+    
     #hero {
         position: relative;
     }
