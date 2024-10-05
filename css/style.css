@@ -35,8 +35,27 @@ header #announcement {
 
 #hero {
     background-color: #E7F8FF;
+    height: 700px;
 }
 
-img {
+body {
+    margin: 0;
+}
+
+/* img {
     align-self: right;
+} */
+
+@media (min-width:768px) {
+    #hero {
+        position: relative;
+    }
+
+    .bg-image {
+        position:absolute;
+        left: 50%;
+        width: 50%;
+        height: 100%;
+        padding: 0;
+    }
 }
